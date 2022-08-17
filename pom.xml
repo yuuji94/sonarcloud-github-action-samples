@@ -10,7 +10,7 @@
      
   <properties>
 
-         <sonar.organization>sonarcloud_testing</sonar.organization>
+         <sonar.organization>sonarcloudtest01</sonar.organization>
 	 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
 
